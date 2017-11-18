@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/routes.php" line="41" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920be71e-a9c5-4735-8300-1e254fdff390" name="Default" comment="" />
+    <list default="true" id="920be71e-a9c5-4735-8300-1e254fdff390" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php" afterPath="$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +65,8 @@
       <file leaf-file-name="2017_11_17_232253_add_is_admin_column_to_posts_tables.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="330">
+              <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -337,12 +340,12 @@
       <workItem from="1510685084290" duration="6697000" />
       <workItem from="1510767014911" duration="4446000" />
       <workItem from="1510852864687" duration="7558000" />
-      <workItem from="1510959857272" duration="2727000" />
+      <workItem from="1510959857272" duration="3664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25519000" />
+    <option name="totallyTimeSpent" value="26456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -653,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="330">
+          <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding />
         </state>
       </provider>
