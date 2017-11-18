@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="920be71e-a9c5-4735-8300-1e254fdff390" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php" afterPath="$PROJECT_DIR$/database/migrations/2017_11_17_232253_add_is_admin_column_to_posts_tables.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -341,12 +339,12 @@
       <workItem from="1510685084290" duration="6697000" />
       <workItem from="1510767014911" duration="4446000" />
       <workItem from="1510852864687" duration="7558000" />
-      <workItem from="1510959857272" duration="2116000" />
+      <workItem from="1510959857272" duration="2504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24908000" />
+    <option name="totallyTimeSpent" value="25296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
