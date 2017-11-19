@@ -12,10 +12,10 @@
 */
 
 
-//
-//Route::get('/', function () {
-//    return view('welcome');
-//});
+
+Route::get('/', function () {
+    return view('welcome');
+});
 
 //Route::get('/about', function () {
 //    return "about";
@@ -50,5 +50,5 @@
 */
 Route::get('insert',function (){
 
-    DB::insert('insert into posts(title,content) values(?,?)', ['PHP with laravel', 'Laravel']);
+    DB::insert('insert into posts(title,content) values(?,?)', ['PHP with laravel', 'Laravel is the best...']);
 });
