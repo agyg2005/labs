@@ -48,7 +48,18 @@ Route::get('/', function () {
 | Application Routes
 |--------------------------------------------------------------------------
 */
-Route::get('insert',function (){
+Route::get('/insert',function (){
 
     DB::insert('insert into posts(title,content) values(?,?)', ['PHP with laravel', 'Laravel is the best...']);
+});
+
+Route::get('/read',function() {
+
+    $results = DB::select('Select * FROM posts WHERE id = ?', [1]);
+
+    foreach($results as $post) {
+
+        return $post->title;
+    }
+
 });
